@@ -1,0 +1,13 @@
+C:\Users\Luis Fernando\source\repos\sales-system\sales-system\bin\Debug\netcoreapp3.1\sales-system.exe
+C:\Users\Luis Fernando\source\repos\sales-system\sales-system\bin\Debug\netcoreapp3.1\sales-system.deps.json
+C:\Users\Luis Fernando\source\repos\sales-system\sales-system\bin\Debug\netcoreapp3.1\sales-system.runtimeconfig.json
+C:\Users\Luis Fernando\source\repos\sales-system\sales-system\bin\Debug\netcoreapp3.1\sales-system.runtimeconfig.dev.json
+C:\Users\Luis Fernando\source\repos\sales-system\sales-system\bin\Debug\netcoreapp3.1\sales-system.dll
+C:\Users\Luis Fernando\source\repos\sales-system\sales-system\bin\Debug\netcoreapp3.1\sales-system.pdb
+C:\Users\Luis Fernando\source\repos\sales-system\sales-system\obj\Debug\netcoreapp3.1\sales-system.csprojAssemblyReference.cache
+C:\Users\Luis Fernando\source\repos\sales-system\sales-system\obj\Debug\netcoreapp3.1\sales-system.AssemblyInfoInputs.cache
+C:\Users\Luis Fernando\source\repos\sales-system\sales-system\obj\Debug\netcoreapp3.1\sales-system.AssemblyInfo.cs
+C:\Users\Luis Fernando\source\repos\sales-system\sales-system\obj\Debug\netcoreapp3.1\sales-system.csproj.CoreCompileInputs.cache
+C:\Users\Luis Fernando\source\repos\sales-system\sales-system\obj\Debug\netcoreapp3.1\sales-system.dll
+C:\Users\Luis Fernando\source\repos\sales-system\sales-system\obj\Debug\netcoreapp3.1\sales-system.pdb
+C:\Users\Luis Fernando\source\repos\sales-system\sales-system\obj\Debug\netcoreapp3.1\sales-system.genruntimeconfig.cache

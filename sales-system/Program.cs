@@ -24,19 +24,19 @@ namespace Sales
 
             Product pd = new Product();
             pd.Name = "Headphones";
-            pd.Price = 42000;
+            pd.SetPrice(40000);
 
             Product pd1 = new Product();
             pd1.Name = "Monitor Samsung";
-            pd1.Price = 652000;
+            pd1.SetPrice(652000);
 
             Product pd2 = new Product();
             pd2.Name = "Mouse";
-            pd2.Price = 20000;
+            pd2.SetPrice(20000);
 
             Product pd3 = new Product();
             pd3.Name = "Keyboard";
-            pd3.Price = 50000;
+            pd3.SetPrice(150000);
 
             Sale sl = new Sale();
             sl.Product = pd;

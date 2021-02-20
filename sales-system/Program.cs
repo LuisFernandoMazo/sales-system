@@ -41,23 +41,23 @@ namespace Sales
             Sale sl = new Sale();
             sl.Product = pd;
             sl.Seller = sm;
-            sl.comment = "Kotion Each G2000 Usb Microfono Ledl";
+            sl.Comment = "Kotion Each G2000 Usb Microfono Ledl";
 
             Sale sl1 = new Sale();
             sl1.Product = pd1;
             sl1.Seller = sm1;
-            sl.comment = "Led Ref: Ls24f350fh ";
+            sl.Comment = "Led Ref: Ls24f350fh ";
 
 
             Sale sl2 = new Sale();
             sl2.Product = pd2;
             sl2.Seller = sm2;
-            sl.comment = "Mouse Ergonómico Microsoft Negro";
+            sl.Comment = "Mouse Ergonómico Microsoft Negro";
 
             Sale sl3 = new Sale();
             sl3.Product = pd3;
             sl3.Seller = sm3;
-            sl.comment = "Metallic Gamer Keyboard Wb-539 Backlit Mechanical";
+            sl.Comment = "Metallic Gamer Keyboard Wb-539 Backlit Mechanical";
 
             float SaleTotal;
 

@@ -23,11 +23,11 @@ namespace Sales
             sm3.Name = "Maximo";
 
             Product pd = new Product();
-            pd.Name = "auriculares";
+            pd.Name = "Headphones";
             pd.Price = 42000;
 
             Product pd1 = new Product();
-            pd1.Name = "Monitor";
+            pd1.Name = "Monitor Samsung";
             pd1.Price = 652000;
 
             Product pd2 = new Product();
@@ -35,35 +35,37 @@ namespace Sales
             pd2.Price = 20000;
 
             Product pd3 = new Product();
-            pd3.Name = "Teclado";
+            pd3.Name = "Keyboard";
             pd3.Price = 50000;
 
             Sale sl = new Sale();
             sl.Product = pd;
             sl.Seller = sm;
+            sl.comment = "Kotion Each G2000 Usb Microfono Ledl";
 
             Sale sl1 = new Sale();
             sl1.Product = pd1;
             sl1.Seller = sm1;
+            sl.comment = "Led Ref: Ls24f350fh ";
+
 
             Sale sl2 = new Sale();
             sl2.Product = pd2;
             sl2.Seller = sm2;
+            sl.comment = "Mouse Ergonómico Microsoft Negro";
 
             Sale sl3 = new Sale();
             sl3.Product = pd3;
             sl3.Seller = sm3;
+            sl.comment = "Metallic Gamer Keyboard Wb-539 Backlit Mechanical";
 
             float SaleTotal;
 
             SaleTotal = sl.Product.Price + sl1.Product.Price + sl2.Product.Price + sl3.Product.Price;
 
 
-            System.Console.WriteLine("El vendedor "  + sl.Seller.Name +  " hizo la venta de unos " + sl.Product.Name + " por el valor de " + sl.Product.Price );
-            System.Console.WriteLine("La vendedora " + sl1.Seller.Name + " hizo la venta de unos " + sl1.Product.Name + " por el valor de " + sl1.Product.Price);
-            System.Console.WriteLine("El vendedor "  + sl2.Seller.Name + " hizo la venta de unos " + sl2.Product.Name + " por el valor de " + sl2.Product.Price);
-            System.Console.WriteLine("El vendedor " + sl3.Seller.Name + " hizo la venta de unos " + sl3.Product.Name + " por el valor de " + sl3.Product.Price);
-            System.Console.WriteLine("El valor total de ventas es generado fue por " + SaleTotal );
+           
+            System.Console.WriteLine("The total sales value is generated was by  " + SaleTotal );
 
         }
     }

@@ -17,7 +17,7 @@ namespace Sales
             }
             else
             {
-                Console.WriteLine("La edad del vendedor no puede ser menor que 0");
+                Console.WriteLine("The age of the seller cannot be less than 0");
             }
 
         }

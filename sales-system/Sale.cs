@@ -8,6 +8,6 @@ namespace Sales
     {
        public Product Product;
        public SalesMan Seller;
-       public String Comments;
+       public String comment;
     }
 }

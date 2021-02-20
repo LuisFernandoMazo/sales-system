@@ -17,7 +17,7 @@ namespace Sales
             }
             else
             {
-                Console.WriteLine("El precio no puede ser menor a 0");
+                Console.WriteLine("The price cannot be less than 0");
             }
 
         }
